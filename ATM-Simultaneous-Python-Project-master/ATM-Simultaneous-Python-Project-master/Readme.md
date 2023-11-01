@@ -1,6 +1,6 @@
 ATM SIMULATOR IN PYTHON
 
-Username: kalpana2
+Username: user2
 
 Pin code: 2222
 
